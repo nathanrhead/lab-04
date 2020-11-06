@@ -2,7 +2,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 23.166023166023166vw;
+  width: 46.33204633204633vw;
   height: 6.177924217462932vh;
   /* border: 1px solid cornflowerblue; */
 }
@@ -26,7 +26,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 23.166023166023166vw;
+  width: 46.33204633204633vw;
   height: 12.355848434925864vh;
   color: white;
   border: 1px solid black;
@@ -48,7 +48,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 23.166023166023166vw;
+  width: 46.33204633204633vw;
   height: 10.29654036243822vh;
   box-sizing: border-box;
   color: white;
@@ -64,7 +64,7 @@ nav {
 
   .e {
     grid-column-start: 2;
-    width: 11.583011583011583vw;
+    width: 23.166023166023166vw;
     height: 20.59308072487644vh;
     display: flex;
     justify-content: center;
@@ -79,7 +79,7 @@ nav {
 
   .f {
     grid-column-start: 3;
-    width: 11.583011583011583vw;
+    width: 23.166023166023166vw;
     height: 20.59308072487644vh;
     display: flex;
     justify-content: center;
@@ -94,7 +94,7 @@ nav {
   .g {
     grid-row-start: 2;
     grid-column-start: 2;
-    width: 11.583011583011583vw;
+    width: 23.166023166023166vw;
     height: 20.59308072487644vh;
     display: flex;
     justify-content: center;
@@ -109,7 +109,7 @@ nav {
   .h {
     grid-column-start: 3;
     grid-row-start: 2;
-    width: 11.583011583011583vw;
+    width: 23.166023166023166vw;
     height: 20.59308072487644vh;
     display: flex;
     justify-content: center;
@@ -132,7 +132,7 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 23.166023166023166vw;
+    width: 46.33204633204633vw;
     height: 6.589785831960461vh;
     color: white;
     border: 1px solid black;
