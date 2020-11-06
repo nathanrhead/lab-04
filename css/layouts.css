@@ -1,0 +1,120 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 23.166023166023166vw;
+  height: 6.177924217462932vh;
+  /* border: 1px solid cornflowerblue; */
+}
+
+nav {
+  color: white;
+  border: 1px solid white;
+}
+
+.parent-b-c-d {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.b {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 23.166023166023166vw;
+  height: 12.355848434925864vh;
+  color: white;
+  border: 1px solid white;
+
+}
+
+.b-c-d {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 23.166023166023166vw;
+  height: 10.29654036243822vh;
+  box-sizing: border-box;
+  color: white;
+  border: 1px solid white;
+}
+
+.parent-e-f-g-h {
+  display: grid;
+  grid-template-columns:  repeat(4, 1fr);
+  grid-template-rows: 1fr 1fr;
+}
+
+  .e {
+    grid-column-start: 2;
+    width: 11.583011583011583vw;
+    height: 20.59308072487644vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    box-sizing: border-box;
+    color: white;
+  }
+
+  .f {
+    grid-column-start: 3;
+    width: 11.583011583011583vw;
+    height: 20.59308072487644vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    box-sizing: border-box;
+    color: white;
+  }
+
+  .g {
+    grid-row-start: 2;
+    grid-column-start: 2;
+    width: 11.583011583011583vw;
+    height: 20.59308072487644vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    box-sizing: border-box;
+    color: white;
+  }
+
+  .h {
+    grid-column-start: 3;
+    grid-row-start: 2;
+    width: 11.583011583011583vw;
+    height: 20.59308072487644vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    box-sizing: border-box;
+    color: white;
+  }
+
+  .footer-i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* border: 1px solid white; */
+  }
+
+  .i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 23.166023166023166vw;
+    height: 6.589785831960461vh;
+    color: white;
+    border: 1px solid white;
+    box-sizing: border-box;
+    
+
+    
+  }

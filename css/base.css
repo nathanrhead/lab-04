@@ -1,0 +1,29 @@
+body {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: lightpink;
+  /* border: 2px solid white; */
+}
+
+header {
+  grid-column-start: 2;
+  margin-top: 3vw;
+  display: flex;
+  justify-content: center;
+  /* border: 2px solid white; */
+}
+
+main {
+  grid-column-start: 2;
+
+  /* border: 2px solid white; */
+
+}
+
+footer {
+  grid-column-start: 2;
+  margin-bottom: 3vw;
+  /* border: 2px solid white; */
+
+}
+
