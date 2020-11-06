@@ -9,7 +9,10 @@ nav {
 
 nav {
   color: white;
-  border: 1px solid white;
+  border: 1px solid black;
+  border-bottom: none;
+  box-sizing: border-box;
+  background-color: rgb(173, 216, 230, .2);
 }
 
 .parent-b-c-d {
@@ -26,8 +29,19 @@ nav {
   width: 23.166023166023166vw;
   height: 12.355848434925864vh;
   color: white;
-  border: 1px solid white;
+  border: 1px solid black;
+  border-bottom: none;
+  box-sizing: border-box;
+  background-color: rgb(173, 216, 230, .3);
 
+}
+
+ #c {
+  background-color: rgb(173, 216, 230, .4);
+}
+
+#d {
+  background-color: rgb(173, 216, 230, .5);
 }
 
 .b-c-d {
@@ -38,7 +52,8 @@ nav {
   height: 10.29654036243822vh;
   box-sizing: border-box;
   color: white;
-  border: 1px solid white;
+  border: 1px solid black;
+  border-bottom: none;
 }
 
 .parent-e-f-g-h {
@@ -54,9 +69,12 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid white;
+    border: 1px solid black;
+    border-right: none;
+    border-bottom: none;
     box-sizing: border-box;
     color: white;
+    background-color: rgb(173, 216, 230, .6);
   }
 
   .f {
@@ -66,9 +84,11 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid white;
+    border: 1px solid black;
+    border-bottom: none;
     box-sizing: border-box;
     color: white;
+    background-color: rgb(173, 216, 230, .7);
   }
 
   .g {
@@ -79,9 +99,11 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid white;
+    border: 1px solid black;
+    border-right: none;
     box-sizing: border-box;
     color: white;
+    background-color: rgb(173, 216, 230, .8);
   }
 
   .h {
@@ -92,9 +114,10 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid white;
+    border: 1px solid black;
     box-sizing: border-box;
     color: white;
+    background-color: rgb(173, 216, 230, .9);
   }
 
   .footer-i {
@@ -112,9 +135,8 @@ nav {
     width: 23.166023166023166vw;
     height: 6.589785831960461vh;
     color: white;
-    border: 1px solid white;
+    border: 1px solid black;
+    border-top: none;
     box-sizing: border-box;
-    
-
-    
+    background-color: rgb(173, 216, 230);
   }
